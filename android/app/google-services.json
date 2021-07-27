@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631532186061",
+    "project_id": "busanuniversity-aa18f",
+    "storage_bucket": "busanuniversity-aa18f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631532186061:android:096392a6dad0e36c1f3c84",
+        "android_client_info": {
+          "package_name": "com.gobusan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631532186061-qrc0tthj560hurqd7gll82d0obcbp15p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiQfcwK4t2JkluyfllXCGAQvLumAiEC70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631532186061-qrc0tthj560hurqd7gll82d0obcbp15p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
